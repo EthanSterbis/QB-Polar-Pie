@@ -243,6 +243,3 @@ image_file_name <- paste0(lastName, "-qb-polar-pie.jpeg")
 
 # save plot
 #ggsave(image_file_name, plot = final_plot, height = 11.2, width = 10.15, dpi = "retina", device = "jpeg", bg = "transparent")
-
-
-
